@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #5c3604bb;
+    background-image: url('../imagenes/bright-squares.png');
+}
+
+header {
+    background-color: #237916;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+section {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border-left: 3px solid #333;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+}
